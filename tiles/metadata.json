@@ -1,0 +1,10 @@
+{
+    "description": "", 
+    "bounds": "0.8284,0.8082,1.0169,1.0107", 
+    "minzoom": "12", 
+    "version": "1.0.0", 
+    "template": "{{#__location__}}{{/__location__}}{{#__teaser__}}{{{pointcnt}}} \u00e1rboles{{/__teaser__}}{{#__full__}}{{/__full__}}", 
+    "maxzoom": "15", 
+    "legend": "Densidad de \u00e1rboles por hex\u00e1gono", 
+    "name": "mapaverde"
+}
